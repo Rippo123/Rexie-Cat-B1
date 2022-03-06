@@ -7,7 +7,7 @@ class script(object):
     ABOUT_TXT = """ <code> IAM JUST A  Auto-Filter-Bot </code>🚶‍♂️⚠️
 
 ➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝑹ᴇxɪᴇ
-➪ <b>𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a>
+➪ <b>𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href='https://t.me/Bad_Bunny_444'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a>
 ➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 : <code>Everyone in this journey</code>
 ➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ 📜</a>
 ➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <code>𝑷ʏᴛʜᴏɴ 3</code>
